@@ -1,16 +1,17 @@
-## Hi there 👋
+# 陳愷 Chen Kai
 
-<!--
-**kaichen-designer/kaichen-designer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX 設計師，目前就讀於台灣的設計相關科系。
 
-Here are some ideas to get you started:
+## 作品集
+🌐 [chen-kai-cv-website-version-2.vercel.app](https://chen-kai-cv-website-version-2.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 作品
+- **Navora** — 品牌識別設計
+- **Cradle** — UI/UX 設計
+- **Wave Haven** — 視覺設計
+- **IPASS MONEY** — 公益行動設計
+- **AD-03** — 廣告設計
+- **生紅調酒** — 品牌設計
+
+## 聯絡
+📧 kaichen1216@gmail.com
