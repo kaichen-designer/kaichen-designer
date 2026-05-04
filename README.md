@@ -1,6 +1,6 @@
 # 陳愷 Chen Kai
 
-UI/UX 設計師，目前就讀於台灣的設計相關科系。
+UI/UX 工業設計師，目前就讀於台灣的設計相關科系。
 
 ## 作品集
 🌐 [chen-kai-cv-website-version-2.vercel.app](https://chen-kai-cv-website-version-2.vercel.app)
